@@ -14,7 +14,6 @@ public class TransactionDAO {
 		
 	}
 	public void transaction(OrderFoodDAO order) throws SQLException, ClassNotFoundException {
-		//Date date=new Date();
 		Connection connection = null;
 		PreparedStatement statement = null;
 		int rows = 0;

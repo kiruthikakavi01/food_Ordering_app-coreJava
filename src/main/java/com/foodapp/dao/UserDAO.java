@@ -7,5 +7,6 @@ import com.foodapp.model.User;
 
 public interface UserDAO {
 	void register(User user) throws ClassNotFoundException, SQLException, Exception;
+	//find all user
 	List<User> findAllUser() throws SQLException, ClassNotFoundException;
 }
