@@ -9,4 +9,6 @@
  * Insert Menu
  * Update Menu
  * Delete Menu
+ * List all User
+ * List all Menu
  
