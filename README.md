@@ -7,7 +7,7 @@ This project was generated with java 17
 * MySQL
 * Jenkins
 * Maven
-* Sonarlit
+* SonarLint
 
 ## Features
 
