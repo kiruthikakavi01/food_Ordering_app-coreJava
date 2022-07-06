@@ -1,5 +1,5 @@
-### food_Ordering_app-coreJava
-# Features
+# food_Ordering_app-coreJava
+## Features
  * User Registration
  * User Login
  * List All Menu
