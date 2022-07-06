@@ -20,4 +20,8 @@ This project was generated with java 17
    * Delete Menu
    * List all User
    * List all Menu
- 
+### Deployment
+To run from source code
+* git clone 
+### Build
+Run mvn build to build the project. The build artifacts will be stored in the .m2 directory.
