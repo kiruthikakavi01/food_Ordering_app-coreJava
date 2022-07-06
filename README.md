@@ -1,6 +1,8 @@
 # food_Ordering_app-coreJava
 
-##Technologies Used
+This project was generated with java 17
+
+## Technologies Used
 * Java 17
 
 ## Features
@@ -10,7 +12,6 @@
    * List All Menu
       * List Veg Dish
       * List Non Veg Dish
- * Transaction
  * Order
  ### Admin
    * Admin Login
