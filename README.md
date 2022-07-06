@@ -6,13 +6,15 @@ This project was generated with java 17
 * Java 17
 
 ## Features
+
  ### User 
    * User Registration
    * User Login
    * List All Menu
       * List Veg Dish
       * List Non Veg Dish
- * Order
+   * Order
+   
  ### Admin
    * Admin Login
    * Insert Menu
@@ -20,8 +22,12 @@ This project was generated with java 17
    * Delete Menu
    * List all User
    * List all Menu
-### Deployment
+   
+## Deployment
 To run from source code
-* git clone 
-### Build
+* git clone https://github.com/kiruthikakavi01/food_Ordering_app-coreJava
+* mvn package
+* java -jar target/jar
+
+## Build
 Run mvn build to build the project. The build artifacts will be stored in the .m2 directory.
